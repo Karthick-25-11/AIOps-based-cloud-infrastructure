@@ -1,5 +1,3 @@
----
-
 # MiTRAA: AIops based cloud infrastructure (AIOps MVP)
 
 ## 1. Overview
